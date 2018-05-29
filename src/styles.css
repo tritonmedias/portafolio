@@ -19,3 +19,9 @@
   .fadeIn {
     animation-name: fadeIn;
   }
+
+  /** mi loiding **/
+svg path,
+svg rect{
+  fill: black;
+}
